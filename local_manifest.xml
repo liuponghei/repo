@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<project name="repo/android_device_asus_Z00T"      	        path="device/asus/Z00T"			remote="github" revision="xosp-7" />
+        <project name="repo/android_kernel_asus_msm8916"       		path="kernel/asus/msm8916" 			remote="github" revision="cm-14.1" />
+       <project name="repo/android_device_asus_msm8916-common"      	path="device/asus/msm8916-common"		remote="github" revision="cm-14.1" />
+       <project name="repo/proprietary_vendor_asus"      	        path="vendor/asus/"			remote="github" revision="cm-14.1" />
+        <project name="repo/proprietary_vendor_qcom_binaries"               	path="vendor/qcom/binaries" 			remote="github" revision="cm-14.1" />
+
+</manifest>
